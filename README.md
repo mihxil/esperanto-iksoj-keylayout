@@ -23,11 +23,12 @@
 
 
  Plej lasta versio de tiu ĉi dosiero troveblas je http://purl.org/NET/mihxil/osx
- 2010-12-02: Purigis la dosieron iom per Ukelele. Eble tio ĉi solvis la problemon pri ikso-stato dum forlaso de redaktokampoj.
- 2010-11-07: Fuŝ!
- 2010-11-06: Akcidente rompis cmd-C, riparis tion
- 2010-11-02: Funkciigis ankaŭ kun 'caps lock'.
- 2010-02-26: versio 1
+ 
+   - 2010-12-02: Purigis la dosieron iom per Ukelele. Eble tio ĉi solvis la problemon pri ikso-stato dum forlaso de redaktokampoj.
+   - 2010-11-07: Fuŝ!
+   - 2010-11-06: Akcidente rompis cmd-C, riparis tion
+   - 2010-11-02: Funkciigis ankaŭ kun 'caps lock'.
+   - 2010-02-26: versio 1
 
  Typing esperanto letters 'with x's'.
  ======================================================================
